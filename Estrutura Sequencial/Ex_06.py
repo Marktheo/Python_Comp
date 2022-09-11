@@ -1,5 +1,5 @@
 #@author: Marktheo
-#Tarefa: Desenvolva um programa que peça o raio de um círculo e mostre: "A área do círculo é: ..."
+#https://wiki.python.org.br/EstruturaSequencial
 
 import math
 

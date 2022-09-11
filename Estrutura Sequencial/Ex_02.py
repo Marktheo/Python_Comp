@@ -1,5 +1,5 @@
 #@author: Marktheo
-#Tarefa: Desenvolva um programa que que peça um número e então mostre: "O número informado foi: ..."
+#https://wiki.python.org.br/EstruturaSequencial
 
 x = input("Digite um número: ")
 

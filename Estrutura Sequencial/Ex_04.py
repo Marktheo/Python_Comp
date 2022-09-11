@@ -1,5 +1,5 @@
 #@author: Marktheo
-#Tarefa: Desenvolva um programa que peça 4 notas bimestrais e mostre: "A média final é: ..."
+#https://wiki.python.org.br/EstruturaSequencial
 
 def media(a, b, c, d):
     return (float(a) + float(b) + float(c) + float(d))/4

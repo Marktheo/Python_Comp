@@ -1,5 +1,5 @@
 #@author: Marktheo
-#Tarefa: Desenvolva um programa que converta de Celsius para Fahrenheit
+#https://wiki.python.org.br/EstruturaSequencial
 
 def converte(c):
     return ((float(c) * 9 / 5) + 32)

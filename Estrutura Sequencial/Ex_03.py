@@ -1,5 +1,5 @@
 #@author: Marktheo
-#Tarefa: Desenvolva um programa que que peça dois números e mostre: "O resultado da soma é: ..."
+#https://wiki.python.org.br/EstruturaSequencial
 
 def soma(x, y):
     return (int(x) + int(y))

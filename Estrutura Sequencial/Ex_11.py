@@ -1,5 +1,5 @@
 #@author: Marktheo
-#Tarefa: Desenvolva um programa que peça 2 números inteiros, 1 número real e mostre 3 resultados
+#https://wiki.python.org.br/EstruturaSequencial
 
 def ops(x, y, z, op):
 

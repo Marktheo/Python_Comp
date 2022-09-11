@@ -1,5 +1,5 @@
 #@author: Marktheo
-#Tarefa: Desenvolva um programa que converta de metros para centímetros
+#https://wiki.python.org.br/EstruturaSequencial
 
 def converte(m):
     return (float(m) * 100)

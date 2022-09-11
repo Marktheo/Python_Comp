@@ -1,4 +1,4 @@
 #@author: Marktheo
-#Tarefa: Desenvolva um programa que mostre a mensagem "Alô Mundo" na tela:
+#https://wiki.python.org.br/EstruturaSequencial
 
 print("Alô Mundo")
