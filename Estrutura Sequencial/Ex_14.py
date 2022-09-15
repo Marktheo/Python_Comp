@@ -11,5 +11,5 @@ def multa(k):
 
 num = input("Informe o peso em kilos: ")
 
-print("O excesso em kilos foi de " + str(round(excesso(num), 2)))
-print("O valor da multa é de R$" + str(round(multa(num), 2)))
+print("O excesso em kilos foi de", round(excesso(num), 2))
+print("O valor da multa é de R$", round(multa(num), 2))

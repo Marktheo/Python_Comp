@@ -6,4 +6,4 @@ def converte(m):
 
 num = input("Digite o comprimento em metros: ")
 
-print("Em centímetros, o comprimento será de " + str(converte(num)))
+print("Em centímetros, o comprimento será de", converte(num))

@@ -16,7 +16,7 @@ def galoes(m):
 
 num = input("Informe a área a ser pintada em metros²: ")
 
-print("Serão necessários " + str(round(litros(num), 2)) + " litros de tinta")
-print("Será(ão) necessária(s) " + str(round(math.floor(latas(num)), 2)) + " lata(s) de tinta")
-print("Será(ão) necessário(s) " + str(round(math.ceil(galoes(num)), 2)) + " galão(ões) de tinta")
-print("O valor total será de R$" + str(round(math.floor(latas(num)) * 80 + (math.ceil(galoes(num)) * 25), 2)))
+print("Serão necessários", round(litros(num), 2), "litros de tinta")
+print("Será(ão) necessária(s)", round(math.floor(latas(num)), 2), "lata(s) de tinta")
+print("Será(ão) necessário(s)", round(math.ceil(galoes(num)), 2), "galão(ões) de tinta")
+print("O valor total será de R$", round(math.floor(latas(num)) * 80 + (math.ceil(galoes(num)) * 25), 2))

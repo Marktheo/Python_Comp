@@ -6,4 +6,4 @@ def converte(c):
 
 num = input("Digite a temperatura em Celsius: ")
 
-print("Em Fahrenheit, a temperatura será de " + str(round(converte(num), 2)))
+print("Em Fahrenheit, a temperatura será de", round(converte(num), 2))

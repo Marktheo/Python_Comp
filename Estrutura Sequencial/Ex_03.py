@@ -7,4 +7,4 @@ def soma(x, y):
 num1 = input("Digite um número: ")
 num2 = input("Digite outro número: ")
 
-print("O resultado da soma é " + str(soma(num1, num2)))
+print("O resultado da soma é", soma(num1, num2))

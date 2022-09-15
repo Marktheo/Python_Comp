@@ -8,4 +8,4 @@ def area(r):
 
 num = input("Digite o raio do círculo: ")
 
-print("A área do círculo é " + str(round(area(num), 2)) + " u.a.")
+print("A área do círculo é", round(area(num), 2), "u.a.")

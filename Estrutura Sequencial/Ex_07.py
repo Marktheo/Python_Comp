@@ -6,4 +6,4 @@ def area(l):
 
 num = input("Digite o lado do quadrado: ")
 
-print("O dobro da área do quadrado é " + str(round(area(num), 2)) + " u.a.")
+print("O dobro da área do quadrado é", round(area(num), 2), "u.a.")
