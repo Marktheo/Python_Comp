@@ -6,5 +6,5 @@ def multa(k):
 
 num = float(input("Informe o peso em kilos: "))
 
-print("O excesso foi de", round(excesso(num), 2), "kilos")
+print("\nO excesso foi de", round(excesso(num), 2), "kilos")
 print("O valor da multa é de R$", round(multa(num), 2))
