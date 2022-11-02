@@ -8,7 +8,6 @@ def peso(h, s):
 
     else:
         return 0
-    
 
 num = float(input("Informe sua altura em metros: "))
 sex = input("Informe seu sexo ('m' ou 'f'): ")
