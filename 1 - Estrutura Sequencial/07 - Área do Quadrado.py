@@ -6,4 +6,4 @@ def dobro(d):
 
 num = float(input("Digite o lado do quadrado: "))
 
-print("O dobro da área do quadrado é", round(dobro(area(num)), 2), "u.a.")
+print("\nO dobro da área do quadrado é", round(dobro(area(num)), 2), "u.a.")
