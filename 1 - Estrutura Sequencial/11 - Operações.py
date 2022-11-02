@@ -17,6 +17,6 @@ num1 = int(input("Digite um número inteiro: "))
 num2 = int(input("Digite outro número inteiro: "))
 num3 = float(input("Digite um número real: "))
 
-print("O resultado 1 é", round(ops(num1, num2, num3, 1), 2))
+print("\nO resultado 1 é", round(ops(num1, num2, num3, 1), 2))
 print("O resultado 2 é", round(ops(num1, num2, num3, 2), 2))
 print("O resultado 3 é", round(ops(num1, num2, num3, 3), 2))
