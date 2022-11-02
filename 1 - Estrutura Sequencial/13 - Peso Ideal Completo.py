@@ -12,4 +12,4 @@ def peso(h, s):
 num = float(input("Informe sua altura em metros: "))
 sex = input("Informe seu sexo ('m' ou 'f'): ")
 
-print("Seu peso ideal é", round(peso(num, sex), 2), "Kg")
+print("\nSeu peso ideal é", round(peso(num, sex), 2), "Kg")
