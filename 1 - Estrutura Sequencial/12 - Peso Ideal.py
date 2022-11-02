@@ -3,4 +3,4 @@ def peso(h):
 
 num = float(input("Informe sua altura em metros: "))
 
-print("Seu peso ideal é", round(peso(num), 2), "Kg")
+print("\nSeu peso ideal é", round(peso(num), 2), "Kg")
