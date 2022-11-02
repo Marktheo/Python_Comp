@@ -5,4 +5,4 @@ def area(r):
 
 num = float(input("Digite o raio do círculo: "))
 
-print("A área do círculo é", round(area(num), 2), "u.a.")
+print("\nA área do círculo é", round(area(num), 2), "u.a.")
