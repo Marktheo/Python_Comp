@@ -9,6 +9,6 @@ def latas(m):
 
 num = float(input("Informe a área a ser pintada em metros²: "))
 
-print("Serão necessários", round(litros(num), 2), "litros de tinta")
+print("\nSerão necessários", round(litros(num), 2), "litros de tinta")
 print("Será(ão) necessária(s)", round(latas(num), 2), "lata(s) de tinta")
 print("O valor total será de R$", round(latas(num) * 80, 2))
