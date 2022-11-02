@@ -1,3 +1,3 @@
 x = float(input("Digite um número: "))
 
-print("O número informado foi", x)
+print("\nO número informado foi", x)
