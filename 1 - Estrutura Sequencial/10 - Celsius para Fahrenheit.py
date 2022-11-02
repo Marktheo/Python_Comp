@@ -3,4 +3,4 @@ def converte(c):
 
 num = float(input("Digite a temperatura em Celsius: "))
 
-print("Em Fahrenheit, a temperatura será", round(converte(num), 2), "graus")
+print("\nEm Fahrenheit, a temperatura será", round(converte(num), 2), "graus")
